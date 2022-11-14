@@ -134,5 +134,4 @@ cardHolder.addEventListener("input", () => {
   ccHolder.innerText =
     cardHolder.value.length === 0 ? "FULANO DA SILVA" : cardHolder.value
 })
-
 //input name />
