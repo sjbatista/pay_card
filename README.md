@@ -1,4 +1,4 @@
-<h1 align="center"> PayCard </h1>
+<h1 align="center"> RocketPay </h1>
 
 <p align="center">
 Componente desenvolvido durante o evento Explorer-Lab-1 da RocketSeat.
@@ -27,4 +27,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Paycard é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM. Desenvolvido durante o evento Explorer-Lab-1 da RocketSeat.
+O RocketPay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM. Desenvolvido durante o evento Explorer-Lab-1 da RocketSeat.
